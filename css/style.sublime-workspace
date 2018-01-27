@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"contack"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"COL",
+				"col-sm-12"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"POS",
+				"position"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"telp",
+				"telp"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"na",
+				"Nama"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"text-ali",
+				"text-align"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"heigt",
+				"height"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text-de",
+				"text-decoration-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "synta",
+		"selected_items":
+		[
+			[
+				"synta",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Install Package Control"
+			],
+			[
+				"HT",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/proWindows8.1/Desktop/ccccc/tambahan/style",
+		"/C/Users/proWindows8.1/Desktop/ccccc/tambahan/tugasUASS/UAS.html",
+		"/C/Users/proWindows8.1/Desktop/ccccc/tambahan/css/bootstrap-theme.css.map",
+		"/C/Users/proWindows8.1/Desktop/ccccc/tambahan/tugasUASS/tugghassUAS.html",
+		"/C/Users/proWindows8.1/Desktop/ccccc/tugas new/css",
+		"/C/Users/proWindows8.1/Desktop/ccccc/tes.html",
+		"/C/Users/proWindows8.1/Desktop/ccccc/ampun wahyu.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\bootstrap-theme.css.map"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
